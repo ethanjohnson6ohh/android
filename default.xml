@@ -1,4 +1,4 @@
-repo sync -c -f -j4 --force-sync --no-clone-bundle --no-tags<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
   <remote  name="github"
