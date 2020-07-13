@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+repo sync -c -f -j4 --force-sync --no-clone-bundle --no-tags<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
   <remote  name="github"
@@ -693,6 +693,7 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/gapps.xml" />
+  <include name="snippets/insanity.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 </manifest>
